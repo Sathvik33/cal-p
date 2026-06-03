@@ -9,4 +9,3 @@ def test_home():
     assert response.json()=={
         "result":5
     }
-    
